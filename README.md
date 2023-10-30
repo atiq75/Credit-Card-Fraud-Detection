@@ -17,3 +17,5 @@ It contains only numerical input variables which are the result of a PCA transfo
 Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset.
 The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-senstive learning.
 Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
+
+The data set couldn't be imported in github. Here is a link to donload it: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
